@@ -15,4 +15,4 @@ releases:
         name: check_ss_certs.ps1
         url: "file:///check_ss_certs.ps1"
         description: "Initial release"
-        checksum: 70bbb66a97ccc89d194421de5a2b70c1
+        checksum: 0c25303e8743c22ce5ca8c2eae187537
